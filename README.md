@@ -1,4 +1,3 @@
 # HatchATask
 
-## Summary: 
-### HatchATask is a 
+## Summary: HatchATask is a 
